@@ -1,8 +1,8 @@
-Proxel_version=3.1
+Proxel_version=4.0
 Math_version=3.0
-Text_version=3.0
+Text_version=4.0
 Array_version=3.0
 Time_version=3.0
-IO_version=3.1
+IO_version=4.0
 Control_version=3.1
 Boolean_version=3.0
